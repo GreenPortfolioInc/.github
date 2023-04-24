@@ -1,2 +1,2 @@
 # .github
-GreenPortfolio GitHub Profile
+[GreenPortfolio GitHub Profile](profile/README.md)
