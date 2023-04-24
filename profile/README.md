@@ -1,1 +1,1 @@
-![GreenPortfolio.com](./GreenPortfolio_Logo_blue.webp)
+![GreenPortfolio.com](https://github.com/GreenPortfolioInc/.github/blob/main/profile/GreenPortfolio_Logo_blue.webp)
